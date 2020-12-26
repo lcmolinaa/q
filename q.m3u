@@ -1644,7 +1644,7 @@ http://tvpremiumhd.club/lista-gratuita/180008/on/live.php?id=ia801303.us.archive
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" ,Child's Play (1988)
 http://tvpremiumhd.club/lista-gratuita/180008/on/live.php?id=ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://filmxposure.files.wordpress.com/2016/06/poster-mansion.jpg" ,La Mansion de Araucaima (1986)
-http://tvpremiumhd.club/lista-gratuita/180008/on/live.php?id=archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
+http://archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" ,Porky's Revenge (1985)
 http://tvpremiumhd.club/lista-gratuita/180008/on/live.php?id=ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
 #EXTINF:-1 group-title="VOD A LA CARTA" tvg-logo="https://i.imgur.com/4hnOzaz.png" ,Vacaciones en Acapulco (1977)
@@ -2533,3 +2533,69 @@ https://archive.org/download/JimmyCarrFunnyBusiness2016WEBDL720pMP4TDR/Jimmy%20C
 https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
 #EXTINF:0 group-title="Cero" ,Rules dont apply
 https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
+#EXTINF:0 group-title="Cero" ,Almost Christmas
+https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
+#EXTINF:0 group-title="Cero" ,Bad Santa
+https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
+#EXTINF:0 group-title="TuviTv" ,McGraw
+https://cloudfront.tubi.video/a37083bc-d7cb-4e37-9c1f-04b7aa1ad29f/4ns6cecw/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,M2
+https://cloudfront.tubi.video/82dfe032-081f-4725-bfe0-b2f3f6e8c47c/egje8l9i/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,M3
+https://cloudfront.tubi.video/3608189e-9878-4bc3-a830-a49ec6d39138/yya5quvu/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Nicole
+https://cloudfront.tubi.video/426d5e06-803a-4643-80f2-2e08c247df64/7e4v2n3u/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Wildlike
+https://cloudfront.tubi.video/f1978eab-f2f1-485b-98a9-5725152f7598/tefhmve6/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Escape2021
+https://cloudfront.tubi.video/9c2de2c5-be73-4a2a-b143-4fb7e218a583/xj0mxzta/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,The donckey king
+https://cloudfront.tubi.video/abdbe204-f864-4cfb-97e3-9ebbea23f126/fm11p7c2/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,El forastero
+https://cloudfront.tubi.video/3d429530-2c38-49cf-9fc4-9e17795b0852/4f14fup8/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,El 4 rey mago
+https://cloudfront.tubi.video/7192e828-4444-49ba-9fad-30d73f40c87e/qqi43q6y/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,El ultimo vuelo
+https://cloudfront.tubi.video/1547ddb5-9897-4b86-be4e-80e148fdbc99/3hf2h72z/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Nubes rojas
+https://cloudfront.tubi.video/2e97de19-58fd-4672-a8be-c424b58256fc/5vdthcoc/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Billy Graham
+https://cloudfront.tubi.video/8e06b785-31b5-42aa-b742-b48a2fcc5344/0fy38k0w/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,La historia de elizabeth
+https://cloudfront.tubi.video/f24e2b23-e01b-41ec-b0f8-768fa68ff280/k9n74b43/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Hemingway
+https://cloudfront.tubi.video/acf15503-e251-4693-b243-eed6bf94982d/3sm9xd0p/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Encantos vida facil
+https://cloudfront.tubi.video/d8e45967-ddd7-4ad9-a8c0-84deafcef9eb/gvwls070/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Espias mentiras
+https://cloudfront.tubi.video/6b3931fc-2780-4441-a242-e184d9472b5f/8jk9nbt6/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Stunt games
+https://cloudfront.tubi.video/95d32b87-7180-4946-9f7e-773e1bd10ca5/mpheymbm/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Acertijo
+https://cloudfront.tubi.video/c064eb11-cc45-43c1-b945-87a06a9fde21/upfettvs/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Homebound
+https://cloudfront.tubi.video/0f837d22-4c31-43d2-a343-a9a0787b923c/jf9etzyo/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Agenda secreta
+https://cloudfront.tubi.video/ac73f6d1-39d5-4df5-a2ce-87e42b413e2d/49at41c4/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,El toque del maestro
+https://cloudfront.tubi.video/61968c8e-8e4b-4306-bfbe-e2717621f82f/zjmt9ygg/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Obreros
+https://cloudfront.tubi.video/f2f3bf1d-630b-41ce-bf03-0d509dca1e13/4qywcxwb/stream.m3u8
+#EXTINF:0 group-title="TuviTv" ,Entrenos
+https://cloudfront.tubi.video/17a8e68f-5707-480a-8d3f-5ba6b793b9ca/n86zmbxo/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,La gran pregunta
+https://cloudfront.tubi.video/4089b8b3-a239-43f1-b1c0-e330ac0ee5bb/shibju3p/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,G2
+https://cloudfront.tubi.video/0646ee3d-54ab-4a79-8361-aa1370de1b47/epz99tts/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,G3
+https://cloudfront.tubi.video/1746cda6-62ce-42f4-b2c8-60e4d6a6f66d/d270aprk/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,Inconsciente colectivo
+https://cloudfront.tubi.video/1a5e5c71-ad7a-40a4-bfcd-bd2d9f5edad9/ib59ibt4/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,I2
+https://cloudfront.tubi.video/35a3c606-921c-4cdd-ae4e-5e095b139ea9/3rbur0ka/stream.m3u8
+#EXTINF:0 group-title="TuviTvS" ,I3
+https://cloudfront.tubi.video/36487e98-4601-406e-9233-efcb2f688ba9/kn0s77hf/stream.m3u8
+#EXTINF:0 group-title="Zee5" ,Movies
+https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/hdntl=exp=1609084599~acl=%2f*~data=hdntl~hmac=fa8b996c265a770170822abbfe55243d8ad598e24308f636516e6e0c668cc754/index_3.m3u8
+#EXTINF:0 group-title="Zee5" ,News
+https://z5ams.akamaized.net/out/v1/f3bf04506e254324b199b4fdebddf02a/hdntl=exp=1609084753~acl=%2f*~data=hdntl~hmac=d9e5c76501921f240afe385646c1dac5a682156b40e4ae0ddb53747978947712/index_7.m3u8
