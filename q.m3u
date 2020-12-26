@@ -4,7 +4,7 @@ http://www.hirubosi.asia/d1/d1_peliculas/01=Cde__HUA%20MULAN%20(La%20hero%c3%adn
 #EXTINF:0 group-title="A-Cine" ,Impacto
 http://www.hirubosi.asia/d1/d1_peliculas/01=Edj__Impact_2008_.MP4
 #EXTINF:0 group-title="A-Cine" ,Cañones de San Sebastian
-http://www.hirubosi.asia/d1/d1_peliculas/01_1=Ede__CA%c3%91ONES_DE_SAN_SEBASTIAN_.MP4
+www.hirubosi.asia/d1/d1_peliculas/los_canones_de_navaron_1961.flv
 #EXTINF:0 group-title="A-Cine" ,Requiebro
 http://www.hirubosi.asia/d1/d1_peliculas/01_1=e___Requiebro_.MP4
 #EXTINF:0 group-title="A-Cine" ,El Secreto de Santa Victoria
@@ -12,11 +12,11 @@ http://www.hirubosi.asia/d1/d1_peliculas/01_1=ide__El_secreto_de_Santa_Victoria_
 #EXTINF:0 group-title="A-Cine" ,Vestido
 http://www.hirubosi.asia/d1/d1_peliculas/27_vestido_2008.flv
 #EXTINF:0 group-title="A-Cine" ,Carmen
-http://www.hirubosi.asia/d1/d1_peliculas/1983.%20Carmen%20de%20Carlos%20Saura.avi
+http://www.hirubosi.asia/d1/d1_peliculas/carmen_2003.flv
 #EXTINF:0 group-title="A-Cine" ,Castle in Sky
 http://www.hirubosi.asia/d1/d1_peliculas/Castle%20in%20Sky.mkv
-#EXTINF:0 group-title="A-Cine" ,Agua para Elefantes
-http://www.hirubosi.asia/d1/d1_peliculas/agua_para_elefantes_2011.avi
+#EXTINF:0 group-title="2Aud" ,Agua para Elefantes
+http://sonicracing.xyz/peliculas%20doble%20audio/Agua%20Para%20Elefantes.mkv
 #EXTINF:0 group-title="A-Cine" ,Aventuras en la gran ciudad
 http://www.hirubosi.asia/d1/d1_peliculas/aventuras_en_la_gran_ciudad_1987.flv
 #EXTINF:0 group-title="A-Cine" ,Belle epoque
@@ -2599,3 +2599,35 @@ https://cloudfront.tubi.video/36487e98-4601-406e-9233-efcb2f688ba9/kn0s77hf/stre
 https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/hdntl=exp=1609084599~acl=%2f*~data=hdntl~hmac=fa8b996c265a770170822abbfe55243d8ad598e24308f636516e6e0c668cc754/index_3.m3u8
 #EXTINF:0 group-title="Zee5" ,News
 https://z5ams.akamaized.net/out/v1/f3bf04506e254324b199b4fdebddf02a/hdntl=exp=1609084753~acl=%2f*~data=hdntl~hmac=d9e5c76501921f240afe385646c1dac5a682156b40e4ae0ddb53747978947712/index_7.m3u8
+#EXTINF:0 group-title="YouCine" ,Lo mejor de mi
+https://www.youtube.com/embed/tLaXBSsQGrI
+#EXTINF:0 group-title="YouCine" ,Elefant
+https://www.youtube.com/embed/d2rd-e634Wk
+#EXTINF:0 group-title="YouCine" ,3 Horas
+https://www.youtube.com/embed/WUsK5zTYPiE
+#EXTINF:0 group-title="YouCine" ,Imperios del dragon
+https://www.youtube.com/embed/aWq_RwGRzVI
+#EXTINF:0 group-title="YouCine" ,Los fugitivos
+https://www.youtube.com/embed/HWZ9AcWsugI
+#EXTINF:0 group-title="YouCine" ,Año 6
+https://www.youtube.com/embed/MPUDWpD_8OU
+#EXTINF:0 group-title="2Aud" ,Al filo del mañana
+http://sonicracing.xyz/peliculas%20doble%20audio/Al%20Filo%20Del%20Ma%c3%b1ana.mkv
+#EXTINF:0 group-title="Serv3" ,Coma
+http://144.217.180.154/SERVIDOR_3/COMA.mp4
+#EXTINF:0 group-title="Serv3" ,Cleopatra1
+http://144.217.180.154/SERVIDOR_3/CLEOPATRA%20(CLASICA)_DVD%2001.mp4
+#EXTINF:0 group-title="Serv3" ,Cleopatra2
+http://144.217.180.154/SERVIDOR_3/CLEOPATRA%20(CLASICA)_DVD%2002.mp4
+#EXTINF:0 group-title="Serv3" ,Todas las cosas
+http://144.217.180.154/SERVIDOR_3/COMO%20FUNCIONAN%20CASI%20TODAS%20LAS%20COSAS%202015.mp4
+#EXTINF:0 group-title="Serv3S" ,ch1
+http://144.217.180.154/SERVIDOR_3/CHICAGO%20PD%2002%20TEMP%20DVD%2001_CAP.1AL5_ES.mp4
+#EXTINF:0 group-title="Serv3S" ,Ch2
+http://144.217.180.154/SERVIDOR_3/CHICAGO%20PD%2002%20TEMP%20DVD%2002_CAP.6AL10_ES.mp4
+#EXTINF:0 group-title="0Ser" ,Black list
+http://dl.mellimovies.com/Series_EN/99/1-3/The.Blacklist/S05/480p/The.Blacklist.S05E01.480p.BRRip.mkv
+#EXTINF:0 group-title="0Ser" ,B2
+http://dl.mellimovies.com/Series_EN/99/1-3/The.Blacklist/S05/480p/The.Blacklist.S05E22.480p.BRRip.mkv
+#EXTINF:0 group-title="0Mov" ,Greenland
+http://91.108.138.22:81/film/action/Greenland.2020/Greenland.2020.720p.BluRay.Farsi.Dubbed.mkv
